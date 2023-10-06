@@ -2,7 +2,7 @@ class Simple{
 	
     public static void main(String args[]){  
 	
-     System.out.println("Hiiiiiikkkkkkkkkkkssssssssskkiieo Java");  
+     System.out.println("Hiiiiiikkkkkkkkklllllllkkssssssssskkiieo Java");  
 	
     }  
 	
